@@ -9,9 +9,7 @@ The dataset used in this project was taken from https://www.kaggle.com/datasets/
 ## Data Processing
 The data was examined for data quality issues and structural anomalies and subsequently put in a good structure for visualization. These processes included
 1.	Modification of data type
-2.	Merging of tables
-3.	Reordering of columns
-
+2.  Reordering of columns
 
 ## Insights
 1. Herbal Tea recorded the highest popularity score, indicating that it is the most preferred beverage among consumers.
